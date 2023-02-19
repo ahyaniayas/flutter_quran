@@ -1,7 +1,7 @@
 # quran
 Projek Quran App
 
-- API https://equran.id/api/
+- API https://equran.id
 
 Terima kasih.
 
