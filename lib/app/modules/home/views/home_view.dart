@@ -31,7 +31,7 @@ class HomeView extends GetView<HomeController> {
               child: CircularProgressIndicator(),
             );
           }
-          if (snap.data == null) {
+          if (snap.data == null || snap.data!.length == 0) {
             return Center(
               child: Text("Terjadi Kesalahan"),
             );
