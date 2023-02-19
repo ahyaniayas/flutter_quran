@@ -1,5 +1,11 @@
 # quran
+Projek Quran App
 
+- API https://equran.id/api/
+
+Terima kasih.
+
+========================================
 A new Flutter project.
 
 ## Getting Started
