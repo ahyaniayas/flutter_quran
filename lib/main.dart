@@ -16,7 +16,7 @@ void main() {
         scaffoldBackgroundColor: Color(0xFFFFF1ED),
       ),
       debugShowCheckedModeBanner: false,
-      title: "Application",
+      title: "Quran",
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
     ),
